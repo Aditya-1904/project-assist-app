@@ -1,0 +1,9 @@
+Hi <Mailto>,
+
+Congratulations to Everyone.
+We have secured a New Project "<Project Name>" and the folder directory is created "<Project Directory>".
+Kindly review the same and let me know, if any queries.
+
+Best Regards, 
+<Username> 
+Your Company Name
